@@ -1,0 +1,38 @@
+C:\Users\Asus\Desktop\new project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\new project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\new project\bin\Debug\netcoreapp3.1\new project.exe
+C:\Users\Asus\Desktop\new project\bin\Debug\netcoreapp3.1\new project.deps.json
+C:\Users\Asus\Desktop\new project\bin\Debug\netcoreapp3.1\new project.runtimeconfig.json
+C:\Users\Asus\Desktop\new project\bin\Debug\netcoreapp3.1\new project.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\new project\bin\Debug\netcoreapp3.1\new project.dll
+C:\Users\Asus\Desktop\new project\bin\Debug\netcoreapp3.1\new project.pdb
+C:\Users\Asus\Desktop\new project\bin\Debug\netcoreapp3.1\new project.Views.dll
+C:\Users\Asus\Desktop\new project\bin\Debug\netcoreapp3.1\new project.Views.pdb
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.AssemblyInfo.cs
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\staticwebassets\new project.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\staticwebassets\new project.StaticWebAssets.xml
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\scopedcss\bundle\new project.styles.css
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.TagHelpers.input.cache
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.TagHelpers.output.cache
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.RazorCoreGenerate.cache
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.Views.pdb
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.dll
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.pdb
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.genruntimeconfig.cache
+C:\Users\Asus\Desktop\new project\obj\Debug\netcoreapp3.1\new project.csproj.CopyComplete
